@@ -1,0 +1,5 @@
+# REDIS_HOST: redis.rahulsai.com
+# MONGODB_HOST: mongodb.rahulsai.com
+
+# We mention variables here if this specific role level required
+# If same varibale need to accessed across many roles we mention it in group_vars
