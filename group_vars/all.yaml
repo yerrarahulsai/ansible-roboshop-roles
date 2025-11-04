@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.rahulsai.com
+REDIS_HOST: redis.rahulsai.com
+CATALOGUE_HOST: catalogue.rahulsai.com
+CART_HOST: cart.rahulsai.com
+MYSQL_HOST: mysql.rahulsai.com
+USER_HOST: user.rahulsai.com
+RABBITMQ_HOST: rabbitmq.rahulsai.com
+SHIPPING_HOST: shipping.rahulsai.com
+PAYMENT_HOST: payment.rahulsai.com
